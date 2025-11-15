@@ -27,12 +27,7 @@ This tool scans a directory of Pokemon card definitions and:
 
 ## Installation
 
-1. Clone this repository:
-```bash
-git clone https://github.com/Tydragon00/pokemon-dexid-updater.git
-cd pokemon-dexid-updater
-```
-
+1. Clone this repository
 2. Build the project:
 ```bash
 cargo build --release
